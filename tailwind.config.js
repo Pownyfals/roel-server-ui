@@ -11,7 +11,8 @@ module.exports = {
         'minecraft':['Minecraft','serif']
       },
       backgroundImage:{
-        'minecraft':"url(./img/mc.gif')"
+        'minecraft':"url(./img/mc.gif')",
+        'heroImage' : "url(./img/hero.png)"
       }
     },
   },

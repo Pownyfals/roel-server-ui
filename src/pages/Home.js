@@ -2,6 +2,8 @@ import React from 'react'
 import Card from '../components/Card'
 import Hero from '../components/Hero'
 import Features from '../components/Features'
+import Pricing from '../components/Pricing'
+import Footer from '../components/Footer'
 
 const Home = (props) => {
   return (
@@ -9,6 +11,8 @@ const Home = (props) => {
       <Hero/>
       <Features/>
       <Card/>
+      <Pricing/>
+      <Footer/>
     </>
   )
 }
